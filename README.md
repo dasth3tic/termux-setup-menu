@@ -79,8 +79,6 @@ Termux tiene muchas fuentes, y si tu conexión es lenta o el mirror está satura
 > Está ejecutando `apt update && apt upgrade`, lo cual puede tardar varios minutos.  
 > **No cierres Termux, solo espera.**
 
-➡️ Para evitar que parezca bloqueado, el script ahora muestra un **spinner animado** mientras actualiza.
-
 ---
 
 ## 🔧 Instalación
