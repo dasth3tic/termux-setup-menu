@@ -17,7 +17,7 @@ Menú visual para instalar dependencias y módulos de Python en Termux sin error
 
 ---
 
-### 🧱 Instalar automáticamente:
+### 🧱 Instala automáticamente:
 
 - `git`
 - `wget`
@@ -90,6 +90,7 @@ Termux tiene muchas fuentes, y si tu conexión es lenta o el mirror está satura
 ```bash
 git clone https://github.com/dasth3tic/termux-setup-menu.git
 
+```bash
 cd termux-setup-menu
 
 chmod +x termux-menu.sh
