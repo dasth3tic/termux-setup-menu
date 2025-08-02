@@ -90,7 +90,6 @@ Termux tiene muchas fuentes, y si tu conexión es lenta o el mirror está satura
 ```bash
 git clone https://github.com/dasth3tic/termux-setup-menu.git
 
-```bash
 cd termux-setup-menu
 
 chmod +x termux-menu.sh
