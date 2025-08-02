@@ -1,5 +1,7 @@
 # 🧰 Termux Setup Menu
 
+![Captura del menú en Termux](omg.png)
+
 Menú visual para instalar dependencias y módulos de Python en Termux sin errores, con barra de progreso, detección de errores y soporte completo para logs.
 
 ---
